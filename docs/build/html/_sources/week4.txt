@@ -1,2 +1,2 @@
-Adversarial Search, Part 1
-==========================
+Week 4: Adversarial Search, Part 1
+==================================
