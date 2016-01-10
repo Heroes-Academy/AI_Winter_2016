@@ -1,2 +1,2 @@
-Navigation, Part 1
-==================
+Week 6: Navigation, Part 1
+==========================

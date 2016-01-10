@@ -12,14 +12,25 @@ Artificial Intelligence (AI) is all around us, from web search to video games. A
 
 In this 10-week course, we will cover basic ideas and techniques underlying Artificial Intelligence using Python. Primarily, the course will use the programming of adversarial video games (such as tic-tac-toe, chess, and robowars) to illustrate core concepts. We will go through the importance of representations, which will introduce graph theory and probability theory. We will also cover the difficulty of rational decisions: evaluating the value of actions in context and choosing actions when there are too many options. By the end of the course, students will have a structured view of intelligent agents and their function.
 
-Syllabus
-^^^^^^^^
+How to Browse This Document
+===========================
 
-The syllabus
+This document is intended to be a companion to the Introduction to Artificial Intelligence course taught at Heroes Academy.  For more information about Heroes Academy, please visit it [here](http://www.njgifted.org/course-view?course=introduction-to-artificial-intelligence-intelligent-agents)
+
+Below and to the left you will find the sections of this document.  Each week there will be exercises to complete at home, as well as supplementary materials for further understanding and learning.  The topic of Artificial Intelligence is very broad and not everything can be covered.  In fact, a large majority of what is covered is cherry picked to get a taste for the flavor of how Computer Scientists solve decision making problems, like game playing and problem solving.
+
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
+   :caption: Getting Started
+
+   intro
+   installing
+   resources
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Course Contents
 
    week1
    week2
@@ -31,7 +42,6 @@ The syllabus
    week8
    week9
    week10
-
 
 
 Indices and tables

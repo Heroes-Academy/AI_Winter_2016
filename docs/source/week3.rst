@@ -1,2 +1,2 @@
-Searching for Solutions
-=======================
+Week 3: Searching for Solutions
+===============================

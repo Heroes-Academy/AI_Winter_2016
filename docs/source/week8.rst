@@ -1,2 +1,2 @@
-Hero Bots, Part 1
-=================
+Week 8: Hero Bots, Part 1
+=========================

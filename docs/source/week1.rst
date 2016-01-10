@@ -1,2 +1,2 @@
-State Representations
-=====================
+Week 1: State Representations
+=============================
