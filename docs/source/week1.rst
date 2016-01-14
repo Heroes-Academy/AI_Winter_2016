@@ -2,6 +2,11 @@ Week 1: State Representations
 =============================
 
 
+Summary
+^^^^^^^
+
+This week we covered the basics of agents.  We talked about how to represent states and model Finite State Automata.
+
 iPython Notebooks
 ^^^^^^^^^^^^^^^^^
 
