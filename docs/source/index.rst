@@ -1,12 +1,12 @@
-.. Resource master file for the Heroes Academy Winter 2016 Introduction to AI course
+.. Resource master file for the HEROES Academy Winter 2016 Introduction to AI course
 .. author: brian mcmahan
 .. date: 1/9/2016
 
-Heroes Academy: Introduction to AI, Winter 2016
+HEROES Academy: Introduction to AI, Winter 2016
 ===============================================
 
 Course Description
-=====================
+==================
 
 Artificial Intelligence (AI) is all around us, from web search to video games. AI methods plan driving directions, filter spam, focus cameras, recognizes speech, and translates languages. Beyond today's applications, AI is at the core of many emerging technologies like self-driving cars, household robots, and virtual humans. In the years to come, Artificial Intelligence will help transform science fiction into reality.
 
@@ -15,7 +15,7 @@ In this 10-week course, we will cover basic ideas and techniques underlying Arti
 How to Browse This Document
 ===========================
 
-This document is intended to be a companion to the Introduction to Artificial Intelligence course taught at Heroes Academy.  For more information about Heroes Academy, please visit it `here`__.
+This document is intended to be a companion to the Introduction to Artificial Intelligence course taught at HEROES Academy.  For more information about HEROES Academy, please visit it `here`__.
 
 Below and to the left you will find the sections of this document.  Each week there will be exercises to complete at home, as well as supplementary materials for further understanding and learning.  The topic of Artificial Intelligence is very broad and not everything can be covered.  In fact, a large majority of what is covered is cherry picked to get a taste for the flavor of how Computer Scientists solve decision making problems, like game playing and problem solving.
 
