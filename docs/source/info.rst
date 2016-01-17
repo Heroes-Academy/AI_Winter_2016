@@ -29,6 +29,6 @@ I expect that...
 How do I contact you?
 ^^^^^^^^^^^^^^^^^^^^^
 
-You can contact me through the following email: bcmcmahan@njgifted.org
+You can contact me through the following email: bmcmahan@njgifted.org
 
 
