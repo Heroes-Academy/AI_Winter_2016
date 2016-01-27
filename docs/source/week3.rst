@@ -16,7 +16,8 @@ It would be good if you also watch the video below.  You should have completed t
 Let's look at the following code in the `Searcher` class:
 
 .. code-block:: python
-
+   :linenos:
+   :emphasize-lines: 5,15
     while len(frontier) > 0 and not_stuck_in_loop:
         logging.debug("\n\n==round: {}==".format(round_counter))
         round_counter+=1
