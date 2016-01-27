@@ -15,25 +15,25 @@ It would be good if you also watch the video below.  You should have completed t
 
 Let's look at the following code in the `Searcher` class:
 
-```python
-while len(frontier) > 0 and not_stuck_in_loop:
-    logging.debug("\n\n==round: {}==".format(round_counter))
-    round_counter+=1
-    not_stuck_in_loop = round_counter < 10**10
+.. code-block:: python
 
-    # pop removes the last element from the list and returns it
-    cur_node = frontier.pop()
-    logging.debug("Current State: {}".format(str(cur_node.state)))
+    while len(frontier) > 0 and not_stuck_in_loop:
+        logging.debug("\n\n==round: {}==".format(round_counter))
+        round_counter+=1
+        not_stuck_in_loop = round_counter < 10**10
 
-    if cur_node.is_solution():
-        solutions.append(cur_node)
-        # after we see a solution, we don't expand its children
-        # so, we use continue which proceeds to the next loop cycle
-        continue
+        # pop removes the last element from the list and returns it
+        cur_node = frontier.pop()
+        logging.debug("Current State: {}".format(str(cur_node.state)))
 
-    next_children = cur_node.get_children()
-    frontier.extend(next_children)
-```
+        if cur_node.is_solution():
+            solutions.append(cur_node)
+            # after we see a solution, we don't expand its children
+            # so, we use continue which proceeds to the next loop cycle
+            continue
+
+        next_children = cur_node.get_children()
+        frontier.extend(next_children)
 
 There are two parts to a search stack: taking items off the stack and putting it onto the stack.  Pop takes the furthest right item off the stack.  Extend adds the children one by one onto the right side.  What does this mean for exploration?  Is this breadth first or depth first?  How could you implement the other style?  Be prepared to answer these two questions in the next class.
 
