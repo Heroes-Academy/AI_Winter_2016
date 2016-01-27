@@ -17,7 +17,7 @@ Let's look at the following code in the `Searcher` class:
 
 .. code-block:: python
    :linenos:
-   :emphasize-lines: 5,15
+   :emphasize-lines: 7,17
 
     while len(frontier) > 0 and not_stuck_in_loop:
         logging.debug("\n\n==round: {}==".format(round_counter))
