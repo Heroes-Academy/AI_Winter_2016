@@ -28,3 +28,6 @@ Stack overflow:
 
 Youtube:
 1. https://www.youtube.com/watch?v=fInYh90YMJU
+
+AI-Games Repository
+- https://github.com/braingineer/AI-games
