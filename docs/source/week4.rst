@@ -35,3 +35,11 @@ Stack overflow:
 Youtube:
 """"""""
 1. `Trevor Payne <https://www.youtube.com/watch?v=fInYh90YMJU>`_
+
+
+Lecture Slides
+--------------
+
+.. raw:: html
+
+    <iframe src="https://docs.google.com/presentation/d/1_pCKRWrde-XQuDuL6YM8FXVICxL0gGCy7SQSV0EHmRo/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
