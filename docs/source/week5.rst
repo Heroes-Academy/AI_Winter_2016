@@ -4,17 +4,13 @@ Week 5: Adversarial Search, Part 2
 Summary
 -------
 
-We will be covering Minimax, implementing it, and covering Alpha-Beta pruning and heuristic search.
+We went through the derivation of a minimax agent in class and how the Tic-Tac-Toe agent works.
+We discussed how the tree gets traversed and how that can be implemented in a recursive algorithm.
 
 Homework
 --------
 
-Improve the search code for the Tic-Tac-Toe AI.
-
-Extra Resources
----------------
-
-Resources to go here.
+Improve the search code for the Tic-Tac-Toe AI. You can find the link for it on the Week 4 page.
 
 Lecture Slides
 --------------
