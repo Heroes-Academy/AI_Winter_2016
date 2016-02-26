@@ -27,7 +27,7 @@ Resources
 Homework
 --------
 
-Using the Worm Wars code (you can find it `here <https://github.com/braingineer/AI-games>` or on in the course github repository), run the AwesomeBot and figure out what is going on.  Why does it lose?  You should be prepared to talk about why you think it fails.
+Using the Worm Wars code (you can find it `here <https://github.com/braingineer/AI-games>`_ or on in the course github repository), run the AwesomeBot and figure out what is going on.  Why does it lose?  You should be prepared to talk about why you think it fails.
 
 Additionally, you should go through the code and comment each line in AwesomeBot, so that you can explain how the algorithm is working.  You should use the Red Blob site and the slides for reference.
 
