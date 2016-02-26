@@ -1,0 +1,3 @@
+[submodule "code/AI-games"]
+	path = code/AI-games
+	url = https://github.com/braingineer/AI-games.git
