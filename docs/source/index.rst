@@ -5,6 +5,8 @@
 HEROES Academy: Introduction to AI, Winter 2016
 ===============================================
 
+`Code Repository <https://github.com/Heroes-Academy/AI_Winter_2016>`_
+
 Course Description
 ==================
 
